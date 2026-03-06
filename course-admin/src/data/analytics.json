@@ -1,0 +1,25 @@
+{
+  "revenueData": [
+    { "month": "Jan", "revenue": 4200, "students": 85  },
+    { "month": "Feb", "revenue": 5800, "students": 120 },
+    { "month": "Mar", "revenue": 7200, "students": 165 },
+    { "month": "Apr", "revenue": 6100, "students": 140 },
+    { "month": "May", "revenue": 8900, "students": 210 },
+    { "month": "Jun", "revenue": 11200,"students": 280 },
+    { "month": "Jul", "revenue": 9800, "students": 240 },
+    { "month": "Aug", "revenue": 12430,"students": 320 }
+  ],
+  "categoryData": [
+    { "name": "Development", "value": 42 },
+    { "name": "Design",      "value": 28 },
+    { "name": "Marketing",   "value": 18 },
+    { "name": "Business",    "value": 12 }
+  ],
+  "recentEnrollments": [
+    { "student": "Alice Martin", "course": "React for Beginners",   "price": "$49", "date": "Aug 1, 2024", "status": "Active"   },
+    { "student": "Bob Torres",   "course": "UI/UX Fundamentals",    "price": "$29", "date": "Aug 2, 2024", "status": "Active"   },
+    { "student": "Carol White",  "course": "Python Data Science",   "price": "$69", "date": "Aug 3, 2024", "status": "Inactive" },
+    { "student": "David Kim",    "course": "Advanced Tailwind CSS", "price": "$39", "date": "Aug 4, 2024", "status": "Active"   },
+    { "student": "Eva Brown",    "course": "Node.js Masterclass",   "price": "$59", "date": "Aug 5, 2024", "status": "Active"   }
+  ]
+}

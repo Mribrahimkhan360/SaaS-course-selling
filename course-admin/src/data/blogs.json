@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "10 Tips to Learn React Fast",           "author": "John Doe",    "date": "2024-07-20", "status": "Published", "img": "https://picsum.photos/seed/blog1/60/40" },
+  { "id": 2, "title": "Why Tailwind CSS is the Future",        "author": "Jane Smith",  "date": "2024-07-25", "status": "Draft",     "img": "https://picsum.photos/seed/blog2/60/40" },
+  { "id": 3, "title": "Top Online Learning Platforms 2024",   "author": "Sara Lee",    "date": "2024-08-01", "status": "Published", "img": "https://picsum.photos/seed/blog3/60/40" },
+  { "id": 4, "title": "How to Price Your Online Course",       "author": "Mike Johnson","date": "2024-08-05", "status": "Published", "img": "https://picsum.photos/seed/blog4/60/40" },
+  { "id": 5, "title": "Python vs JavaScript in 2024",          "author": "Emily Chen",  "date": "2024-08-08", "status": "Draft",     "img": "https://picsum.photos/seed/blog5/60/40" }
+]

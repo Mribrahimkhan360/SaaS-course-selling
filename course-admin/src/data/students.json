@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Alice Martin",  "email": "alice@example.com",  "courses": 3, "joined": "2024-01-15", "avatar": "https://i.pravatar.cc/40?img=1" },
+  { "id": 2, "name": "Bob Torres",    "email": "bob@example.com",    "courses": 1, "joined": "2024-02-20", "avatar": "https://i.pravatar.cc/40?img=2" },
+  { "id": 3, "name": "Carol White",   "email": "carol@example.com",  "courses": 5, "joined": "2023-11-10", "avatar": "https://i.pravatar.cc/40?img=3" },
+  { "id": 4, "name": "David Kim",     "email": "david@example.com",  "courses": 2, "joined": "2024-03-05", "avatar": "https://i.pravatar.cc/40?img=4" },
+  { "id": 5, "name": "Eva Brown",     "email": "eva@example.com",    "courses": 4, "joined": "2024-01-28", "avatar": "https://i.pravatar.cc/40?img=5" },
+  { "id": 6, "name": "Frank Wilson",  "email": "frank@example.com",  "courses": 2, "joined": "2024-04-12", "avatar": "https://i.pravatar.cc/40?img=6" },
+  { "id": 7, "name": "Grace Liu",     "email": "grace@example.com",  "courses": 6, "joined": "2023-09-30", "avatar": "https://i.pravatar.cc/40?img=7" }
+]

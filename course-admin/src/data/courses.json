@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "React for Beginners",
+    "instructor": "John Doe",
+    "price": 49,
+    "students": 320,
+    "category": "Development",
+    "status": "Published",
+    "rating": 4.8,
+    "thumb": "https://picsum.photos/seed/react/80/50"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Tailwind CSS",
+    "instructor": "Jane Smith",
+    "price": 39,
+    "students": 215,
+    "category": "Design",
+    "status": "Published",
+    "rating": 4.6,
+    "thumb": "https://picsum.photos/seed/tailwind/80/50"
+  },
+  {
+    "id": 3,
+    "title": "Node.js Masterclass",
+    "instructor": "Mike Johnson",
+    "price": 59,
+    "students": 180,
+    "category": "Development",
+    "status": "Draft",
+    "rating": 4.9,
+    "thumb": "https://picsum.photos/seed/node/80/50"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Fundamentals",
+    "instructor": "Sara Lee",
+    "price": 29,
+    "students": 430,
+    "category": "Design",
+    "status": "Published",
+    "rating": 4.7,
+    "thumb": "https://picsum.photos/seed/uiux/80/50"
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing 101",
+    "instructor": "Chris Ray",
+    "price": 34,
+    "students": 98,
+    "category": "Marketing",
+    "status": "Draft",
+    "rating": 4.3,
+    "thumb": "https://picsum.photos/seed/mkt/80/50"
+  },
+  {
+    "id": 6,
+    "title": "Python Data Science",
+    "instructor": "Emily Chen",
+    "price": 69,
+    "students": 512,
+    "category": "Development",
+    "status": "Published",
+    "rating": 4.9,
+    "thumb": "https://picsum.photos/seed/python/80/50"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Alex Thompson",
+    "role": "Frontend Developer at Stripe",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "rating": 5,
+    "review": "LearnHub completely changed my career trajectory. I went from knowing basic HTML to landing a senior developer role in just 8 months. The React bootcamp is hands-down the best course I've ever taken — Sarah's teaching style makes everything click.",
+    "course": "Complete React Developer Bootcamp"
+  },
+  {
+    "id": "2",
+    "name": "Anika Patel",
+    "role": "UX Designer at Spotify",
+    "avatar": "https://i.pravatar.cc/150?img=44",
+    "rating": 5,
+    "review": "The UX Design Masterclass is unlike anything else out there. Marcus doesn't just teach Figma — he teaches you HOW to think as a designer. My portfolio went from zero to landing me a job at Spotify. Worth every single penny.",
+    "course": "UI/UX Design Masterclass"
+  },
+  {
+    "id": "3",
+    "name": "Carlos Mendez",
+    "role": "Data Scientist at Uber",
+    "avatar": "https://i.pravatar.cc/150?img=60",
+    "rating": 5,
+    "review": "Dr. Sharma's Python for Data Science course is incredibly comprehensive. I had zero ML background and by Module 4 I was building real neural networks. The real-world projects made all the difference — I used one as my portfolio piece in interviews.",
+    "course": "Python for Data Science & ML"
+  },
+  {
+    "id": "4",
+    "name": "Emma Wilson",
+    "role": "Full-Stack Engineer at Linear",
+    "avatar": "https://i.pravatar.cc/150?img=49",
+    "rating": 5,
+    "review": "I tried Udemy, YouTube, freeCodeCamp — nothing compared to LearnHub's structure and quality. The Node.js course got me my first backend job offer within 3 months. The community support is phenomenal too.",
+    "course": "Node.js & Express Backend"
+  },
+  {
+    "id": "5",
+    "name": "Ryan Park",
+    "role": "Cloud Architect at Microsoft",
+    "avatar": "https://i.pravatar.cc/150?img=15",
+    "rating": 5,
+    "review": "Passed my AWS SAA exam on the first attempt after David's course. His explanations of complex architectures are incredibly clear. The practice exams in Module 6 were almost identical to the real test. 10/10 would recommend.",
+    "course": "AWS Solutions Architect Prep"
+  },
+  {
+    "id": "6",
+    "name": "Fatima Al-Hassan",
+    "role": "Growth Manager at Notion",
+    "avatar": "https://i.pravatar.cc/150?img=36",
+    "rating": 5,
+    "review": "LearnHub's digital marketing course gave me a complete system I could apply immediately. Our startup went from 200 to 15,000 monthly users in 4 months using Olivia's growth strategies. This is real, actionable knowledge.",
+    "course": "Digital Marketing Strategy"
+  }
+]

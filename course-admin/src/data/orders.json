@@ -1,0 +1,9 @@
+[
+  { "id": "#ORD-001", "student": "Alice Martin",  "course": "React for Beginners",    "amount": 49, "method": "Stripe", "date": "2024-08-01", "status": "Paid"     },
+  { "id": "#ORD-002", "student": "Bob Torres",    "course": "UI/UX Fundamentals",     "amount": 29, "method": "PayPal", "date": "2024-08-02", "status": "Paid"     },
+  { "id": "#ORD-003", "student": "Carol White",   "course": "Python Data Science",    "amount": 69, "method": "Stripe", "date": "2024-08-03", "status": "Refunded" },
+  { "id": "#ORD-004", "student": "David Kim",     "course": "Advanced Tailwind CSS",  "amount": 39, "method": "Card",   "date": "2024-08-04", "status": "Pending"  },
+  { "id": "#ORD-005", "student": "Eva Brown",     "course": "Node.js Masterclass",    "amount": 59, "method": "Stripe", "date": "2024-08-05", "status": "Paid"     },
+  { "id": "#ORD-006", "student": "Frank Wilson",  "course": "Digital Marketing 101",  "amount": 34, "method": "PayPal", "date": "2024-08-06", "status": "Paid"     },
+  { "id": "#ORD-007", "student": "Grace Liu",     "course": "React for Beginners",    "amount": 49, "method": "Card",   "date": "2024-08-07", "status": "Pending"  }
+]

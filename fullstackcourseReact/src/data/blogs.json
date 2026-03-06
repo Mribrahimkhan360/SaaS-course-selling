@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "title": "10 Reasons to Learn React in 2024 (And Why It's Still #1)",
+    "slug": "learn-react-2024",
+    "author": {
+      "name": "Sarah Chen",
+      "avatar": "https://i.pravatar.cc/150?img=47",
+      "role": "Senior Frontend Engineer"
+    },
+    "category": "Development",
+    "publishDate": "December 12, 2024",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&h=450&fit=crop",
+    "excerpt": "React continues to dominate the frontend landscape with no signs of slowing down. Here's why 2024 is the perfect time to go all-in on React — from job market demand to the exciting ecosystem innovations.",
+    "content": "React has been the undisputed king of frontend frameworks since its release in 2013, and in 2024, it's showing no signs of yielding its throne. With over 20 million weekly npm downloads and powering companies like Facebook, Netflix, Airbnb, and Dropbox, React's position in the ecosystem is stronger than ever.\n\n**1. The Job Market Demand Is Insane**\nReact developers command some of the highest salaries in software engineering. According to Stack Overflow's Developer Survey 2024, React is the most wanted and most commonly used web framework for the fifth consecutive year. React-specific roles offer 25-40% higher compensation than generic frontend roles.\n\n**2. React Server Components Are a Game Changer**\nThe introduction of React Server Components (RSC) represents the most significant paradigm shift in React's history. RSCs allow you to render components on the server without sending JavaScript to the client, dramatically improving performance and developer experience.\n\n**3. Next.js 14 Makes Full-Stack Development Effortless**\nThe React and Next.js ecosystem has matured to a point where you can build production-grade full-stack applications with one unified codebase. Server actions, the new App Router, and streaming make it easier than ever.\n\n**4. The Ecosystem Is Unmatched**\nWith libraries like Tanstack Query, Zustand, Radix UI, shadcn/ui, and Framer Motion, the React ecosystem offers solutions for every problem. No other framework comes close to this breadth of high-quality tooling.\n\n**5. TypeScript Integration Is Best-in-Class**\nReact's TypeScript support has become incredibly robust. With generic components, strict typing, and excellent IDE support, building type-safe React applications is a joy in 2024.\n\nThe verdict: If you're choosing one frontend technology to master in 2024, React remains the safe, lucrative, and genuinely exciting choice.",
+    "tags": ["React", "JavaScript", "Career", "Frontend"]
+  },
+  {
+    "id": "2",
+    "title": "The UX Designer's Guide to Figma Auto-Layout (2024 Edition)",
+    "slug": "figma-auto-layout-guide",
+    "author": {
+      "name": "Marcus Webb",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "role": "Lead UX Designer"
+    },
+    "category": "Design",
+    "publishDate": "November 28, 2024",
+    "readTime": "9 min read",
+    "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&h=450&fit=crop",
+    "excerpt": "Auto-Layout is the single most powerful feature in Figma, yet most designers only scratch the surface of what it can do. Master these advanced techniques and your design workflow will never be the same.",
+    "content": "Auto-Layout transformed Figma from a static design tool into a dynamic layout system that mirrors how CSS Flexbox works in the browser. Yet despite its power, most designers use only 20% of Auto-Layout's capabilities. Let's change that.\n\n**Understanding the Mental Model**\nAuto-Layout works exactly like CSS Flexbox. A frame with Auto-Layout enabled becomes a flex container, and its children become flex items. Once you internalize this, Auto-Layout's behavior becomes completely predictable.\n\n**Nested Auto-Layout: The Key to Responsive Components**\nThe real power of Auto-Layout emerges when you nest frames. A card component might have a vertical Auto-Layout frame containing a horizontal frame for the header, a text block for content, and a horizontal frame for action buttons. Each nested frame has its own direction and spacing rules.\n\n**Fill vs. Hug vs. Fixed: Mastering Sizing Modes**\n- Fixed: The frame stays at a defined size regardless of content\n- Hug: The frame shrinks or grows to fit its content (like fit-content in CSS)\n- Fill: The frame expands to fill available space in its parent (like flex-grow: 1 in CSS)\n\nThe combination of these three modes gives you complete control over responsive behavior.\n\n**Advanced Technique: Min/Max Width**\nFigma now supports Min Width and Max Width on Auto-Layout frames, enabling truly responsive component behavior. Set a card's minimum width to 280px and let it fill its container — your designs will behave exactly like their coded counterparts.\n\n**Pro Tip: Wrap Mode for Responsive Grids**\nEnable Wrap in Auto-Layout settings to create grid-like layouts that automatically wrap items to the next line when space runs out — perfect for tag clouds, button groups, and card grids.",
+    "tags": ["Figma", "Design", "UX", "Tutorial"]
+  },
+  {
+    "id": "3",
+    "title": "How I Went From $40k to $140k Salary in 18 Months (My Learning Journey)",
+    "slug": "salary-jump-learning-journey",
+    "author": {
+      "name": "Alex Thompson",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "role": "Frontend Developer at Stripe"
+    },
+    "category": "Career",
+    "publishDate": "November 15, 2024",
+    "readTime": "12 min read",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=450&fit=crop",
+    "excerpt": "In January 2023, I was an underpaid junior dev making $40k doing WordPress sites. By June 2024, I had an offer from Stripe at $140k. Here's exactly what I did, the courses I took, and the mistakes you should avoid.",
+    "content": "I want to preface this by saying: I'm not special. I don't have a CS degree. I didn't go to a bootcamp. What I had was a plan, a relentless learning habit, and the right resources.\n\n**Month 1-3: Foundations**\nI started with the LearnHub React Bootcamp after wasting three months jumping between free tutorials. The structured curriculum was exactly what I needed. I committed to 2 hours every morning before work.\n\n**Month 4-6: Building in Public**\nFollowing Sarah Chen's advice in the course, I started building publicly. Three real projects: a personal finance tracker, a recipe app with user authentication, and a clone of Linear's interface. Each one went on GitHub with a detailed README.\n\n**Month 7-9: TypeScript and Testing**\nThis is where most self-taught developers stop, and it's the biggest mistake. Adding TypeScript and React Testing Library to my skillset immediately differentiated me from 80% of applicants.\n\n**Month 10-12: The Job Hunt**\nI applied to 47 companies. Got 12 interviews. 4 technical screens. 2 offers. My GitHub and the live deployed projects were cited in every interview as what set me apart.\n\n**The $140k Offer**\nStripe came through a recruiter who found my GitHub. The three technical interviews were intense — system design, live coding, and a take-home project. But I'd been building real things for a year, so none of it felt foreign.\n\n**What I'd Do Differently**\n1. Start with TypeScript from day one\n2. Deploy everything — don't just push to GitHub\n3. Join communities earlier (the LearnHub Discord was invaluable)\n4. Network more intentionally — most of my interview leads came from Twitter/X",
+    "tags": ["Career", "Success Story", "Salary", "Learning"]
+  },
+  {
+    "id": "4",
+    "title": "Python vs R for Data Science: Which Should You Learn in 2024?",
+    "slug": "python-vs-r-data-science",
+    "author": {
+      "name": "Dr. Priya Sharma",
+      "avatar": "https://i.pravatar.cc/150?img=25",
+      "role": "ML Researcher"
+    },
+    "category": "Data Science",
+    "publishDate": "October 30, 2024",
+    "readTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop",
+    "excerpt": "The Python vs R debate has raged for a decade. But in 2024, the answer is clearer than ever. Here's an honest, data-driven comparison to help you make the right choice for your data science career.",
+    "content": "The Python vs R debate has been a defining conversation in data science for nearly a decade. Both languages are powerful, both have passionate communities, and both can absolutely get the job done. But in 2024, the landscape has shifted enough that the answer is clearer than it used to be.\n\n**The Short Answer: Python**\nFor most people, in most situations, Python is the right choice. Here's why:\n\n**Job Market Reality**\nA quick search on LinkedIn reveals the truth: Python data science roles outnumber R roles by roughly 8:1. In machine learning and AI specifically, Python's dominance is even more pronounced — nearly every major ML framework (TensorFlow, PyTorch, scikit-learn) is Python-first.\n\n**Versatility**\nPython's biggest advantage is that it's not just a data science language. The same skills transfer to backend development, automation, web scraping, and system scripting. This versatility makes Python skills compound over time in ways that R skills don't.\n\n**When R Is the Right Choice**\nR still has genuine advantages in specific domains:\n- Statistical research and academia: R's statistical computing capabilities and bioconductor packages remain unmatched\n- Biostatistics and clinical research: The field runs on R, period\n- Advanced visualization: ggplot2 produces publication-quality graphics that Matplotlib can't easily replicate\n\n**The Verdict**\nIf you're targeting industry roles in ML, AI, or general data science: learn Python. If you're in academia, biostatistics, or purely statistical research: R might serve you better. If you're unsure: start with Python and add R later if your specific niche requires it.",
+    "tags": ["Python", "Data Science", "R", "Career"]
+  },
+  {
+    "id": "5",
+    "title": "Building Your First REST API with Node.js in Under 2 Hours",
+    "slug": "first-rest-api-nodejs",
+    "author": {
+      "name": "James Okafor",
+      "avatar": "https://i.pravatar.cc/150?img=68",
+      "role": "Principal Backend Engineer"
+    },
+    "category": "Development",
+    "publishDate": "October 18, 2024",
+    "readTime": "15 min read",
+    "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=800&h=450&fit=crop",
+    "excerpt": "A step-by-step tutorial for building a production-ready REST API with Node.js, Express, and MongoDB. Complete with authentication, error handling, and deployment. No fluff, just code.",
+    "content": "REST APIs are the backbone of modern web applications. Every app you use — Instagram, Twitter, Spotify — communicates via REST APIs. Today, we're building one from scratch.\n\n**Prerequisites**\n- Node.js v18+ installed\n- Basic JavaScript knowledge\n- MongoDB Atlas account (free tier is fine)\n\n**Project Setup**\n```bash\nmkdir my-api && cd my-api\nnpm init -y\nnpm install express mongoose dotenv bcryptjs jsonwebtoken\nnpm install -D nodemon\n```\n\n**Server Setup**\n```javascript\nimport express from 'express';\nimport mongoose from 'mongoose';\nimport dotenv from 'dotenv';\n\ndotenv.config();\nconst app = express();\napp.use(express.json());\n\nmongoose.connect(process.env.MONGODB_URI)\n  .then(() => console.log('MongoDB connected'))\n  .catch(err => console.error(err));\n\napp.listen(3000, () => console.log('Server running on port 3000'));\n```\n\n**Building the User Model**\nWe'll create a User model with email/password authentication and bcrypt hashing. The key is to hash passwords in a pre-save hook, never in the route handler.\n\n**Authentication Routes**\nWe'll implement POST /auth/register and POST /auth/login with JWT token generation. Tokens should expire in 7 days for a good balance of security and user experience.\n\n**Protected Routes**\nCreate a middleware function that extracts and verifies the JWT from the Authorization header. Apply it to any route that requires authentication.\n\n**Error Handling**\nAlways implement a global error handler as the last middleware. It should differentiate between validation errors (400), authentication errors (401), not found (404), and server errors (500).",
+    "tags": ["Node.js", "API", "Backend", "Tutorial"]
+  },
+  {
+    "id": "6",
+    "title": "The 5 AWS Services Every Developer Must Know in 2024",
+    "slug": "aws-services-developers-must-know",
+    "author": {
+      "name": "David Kim",
+      "avatar": "https://i.pravatar.cc/150?img=59",
+      "role": "AWS Cloud Architect"
+    },
+    "category": "Cloud",
+    "publishDate": "October 5, 2024",
+    "readTime": "10 min read",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+    "excerpt": "AWS has 200+ services and it's easy to feel overwhelmed. But the truth is, 90% of real-world applications rely on just a handful of core services. Here are the five that every developer absolutely must understand.",
+    "content": "With over 200 services, AWS can feel like an impossible maze. But here's the truth that AWS doesn't advertise: most applications — from simple web apps to complex distributed systems — are built on the same core five services. Master these and you'll be prepared for 90% of real-world cloud work.\n\n**1. EC2 (Elastic Compute Cloud)**\nEC2 is AWS's virtual machine service and still the most fundamental compute option. Understanding EC2 means understanding instance types (t3.micro vs c5.4xlarge), EBS volumes, security groups, and key pairs. Even if you end up using containers or serverless, you need to understand EC2 to understand everything built on top of it.\n\n**2. S3 (Simple Storage Service)**\nS3 is where you store everything: images, videos, backups, static websites, and data lakes. Its pricing model (pay per GB stored + per request) is important to understand at scale. Key concepts: buckets, objects, versioning, lifecycle policies, and presigned URLs.\n\n**3. Lambda**\nLambda is AWS's serverless compute service that runs your code in response to events without you managing servers. It's the backbone of event-driven architectures. Understanding cold starts, memory allocation, and execution limits is critical for production use.\n\n**4. RDS (Relational Database Service)**\nRDS manages PostgreSQL, MySQL, and other relational databases. The key differentiator from self-hosted databases: automated backups, Multi-AZ deployments for high availability, and read replicas for scaling. Most applications need a database — RDS is almost always the right choice.\n\n**5. CloudFront**\nCloudFront is AWS's CDN (Content Delivery Network) that caches content at 400+ edge locations worldwide. Combining S3 + CloudFront gives you a globally fast, infinitely scalable static hosting solution for pennies. Every web app should use it.\n\n**The Bonus: IAM**\nStrictly speaking, IAM isn't optional — it's the security layer everything else depends on. Understanding roles, policies, and the principle of least privilege isn't glamorous, but it's non-negotiable for production AWS work.",
+    "tags": ["AWS", "Cloud", "DevOps", "Tutorial"]
+  }
+]
